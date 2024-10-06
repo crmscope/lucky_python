@@ -2,14 +2,16 @@
 
 Сравним скорость вывода строки «Hello world!» в PHP и Python. Для эталона скорости будем использовать Golang в интерактивном режиме.
 
+# python
+
 ```python
 print("hello world!")
 ```
-
+# php
 ```php
 echo "hello world!";
 ```
-
+# GO
 ```go
 package main
 import "fmt"
