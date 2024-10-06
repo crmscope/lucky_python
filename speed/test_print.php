@@ -1,1 +1,3 @@
-echo "print";
+<?php
+echo "hello world!";
+
